@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Oleksii Kucherov](https://up.htmlacademy.ru/htmlcss/32/user/1742793).
-* Наставник: `Тина Кузьменко`.
+* Наставник: [Тина Кузьменко](https://htmlacademy.ru/profile/tina_kuzmenko).
 
 ---
 
